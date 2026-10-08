@@ -1,0 +1,44 @@
+{
+  "arxiv_query": "(abs:banking OR abs:\"credit risk\" OR abs:\"fraud detection\" OR abs:fintech OR abs:\"financial markets\") AND (abs:\"machine learning\" OR abs:\"language model\" OR abs:\"deep learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "banking llm",
+        "finance llm",
+        "financial agent llm"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "credit risk machine learning",
+        "fraud detection machine learning"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "finance data science",
+        "banking data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "financial analytics dashboard",
+        "banking analytics"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "financial data analysis",
+        "stock market data analysis"
+      ]
+    }
+  ]
+}
