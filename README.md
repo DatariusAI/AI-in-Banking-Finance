@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **credit risk, fraud dete
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-13 04:43 UTC_
+_Last refreshed: 2026-10-14 04:37 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-13 | [MemoryVLN: From Ego-Aware Memory Representation to Cross-Context Memory Reuse in Vision-Language Navigation](https://arxiv.org/abs/2610.18478) | Xueyao Wei et al. |
+| 2026-10-13 | [Teacher-Guided Tool Learning for Small Language Models via Bidirectional KL Constraints](https://arxiv.org/abs/2610.18459) | Haoxuan Gao et al. |
+| 2026-10-12 | [VeriRouter: Towards Verifiable LLM Routing](https://arxiv.org/abs/2610.17431) | Mengyu Yao et al. |
+| 2026-10-12 | [DeepThink: A Conceptual Model for Knowledge-Addressable Recurrent Language Modeling](https://arxiv.org/abs/2610.16171) | Weiguo Chen |
+| 2026-10-10 | [DeltaNet-PC: Test-Time Memory Without Backpropagation Through Time](https://arxiv.org/abs/2610.15185) | Todd Morrill et al. |
+| 2026-10-10 | [Coarse-Graining Recursive Expert Computation: Continuation-Relative Interfaces and Failure Modes](https://arxiv.org/abs/2610.14413) | Shihua Yu et al. |
 | 2026-10-09 | [Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis](https://arxiv.org/abs/2610.13510) | Hamza Shafiq et al. |
 | 2026-10-08 | [Self-Preservation in Language Models](https://arxiv.org/abs/2610.12602) | Dongkyu Cho et al. |
-| 2026-10-08 | [MemTrial: Learning When to Trust Memory in LLM Portfolio Agents](https://arxiv.org/abs/2610.11732) | Guanghao Wu et al. |
-| 2026-10-08 | [Beyond Sequences: Distilling Structured Decision Memory for LLM Recommendation](https://arxiv.org/abs/2610.11501) | Leikun Liang et al. |
-| 2026-10-07 | [Deep Learning vs. Statistical Models for Multi-Horizon Price Forecasting of Second-Hand Electronics: A Systematic Benchmark](https://arxiv.org/abs/2610.10727) | Mateusz Buczyński et al. |
-| 2026-10-07 | [Learning to Accumulate Knowledge with Mutual Information](https://arxiv.org/abs/2610.10042) | Yuyang Zhao et al. |
-| 2026-10-07 | [Q-PhotoMarket: A Design Space Exploration Framework for Photonic Hybrid Quantum Neural Networks in Financial Market Prediction](https://arxiv.org/abs/2610.09641) | Alberto Marchisio et al. |
-| 2026-10-06 | [A Functional Representation of Credit Behavior for Probability of Default Modeling](https://arxiv.org/abs/2610.07888) | Jonas Brunholm et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 110,873 | 2026-10-03 |
-| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,654 | 2026-09-08 |
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,022 | 2026-10-12 |
-| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,057 | 2026-08-15 |
-| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. | Python | 2,976 | 2026-10-12 |
-| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 1,814 | 2026-10-13 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 111,070 | 2026-10-03 |
+| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,657 | 2026-09-08 |
+| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,023 | 2026-10-12 |
+| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. | Python | 3,377 | 2026-10-13 |
+| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,062 | 2026-08-15 |
+| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 1,814 | 2026-10-14 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -54,7 +54,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [papa-torb/adtruth](https://github.com/papa-torb/adtruth) | Open-source ad fraud detection for small businesses using machine learning. Detect click fraud and bot traffic from Google Ads, Facebook Ads | HTML | 249 | 2025-12-17 |
-| [jube-home/aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring) | Open source AML and Fraud Detection using Machine Learning for Real-Time Transaction Monitoring | C# | 113 | 2026-10-12 |
+| [jube-home/aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring) | Open source AML and Fraud Detection using Machine Learning for Real-Time Transaction Monitoring | C# | 113 | 2026-10-14 |
 | [Srinikesh18/Credit-Card-Fraud-Detection-ML](https://github.com/Srinikesh18/Credit-Card-Fraud-Detection-ML) | End-to-end Credit Card Fraud Detection using Machine Learning with SMOTE, Random Forest, and ROC-AUC evaluation. | Jupyter Notebook | 55 | 2026-02-11 |
 | [Beckybams/Carbon-Credit-Fraud-Detection-](https://github.com/Beckybams/Carbon-Credit-Fraud-Detection-) | Carbon-Credit-Fraud-Detection uses data analytics and machine learning to identify suspicious transactions in carbon credit markets. It moni |  | 40 | 2025-10-31 |
 | [HemapojavalliV/credit-card-fraud-detection](https://github.com/HemapojavalliV/credit-card-fraud-detection) | Developed a machine learning model to detect fraudulent financial transactions using classification algorithms. Includes data preprocessing, | Python | 31 | 2026-04-09 |
@@ -68,7 +68,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [hackernoon/learn](https://github.com/hackernoon/learn) | The place to learn about the top technology, programming, web3, business, media, gaming, data science, finance, and cybersecurity stories fr |  | 615 | 2026-04-21 |
-| [rmcmillan34/algorithmic-trading-learning-roadmap](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) | A comprehensive learning roadmap for mastering the core disciplines necessary for successful sole algorithmic trading. This repository serve | Shell | 252 | 2026-02-07 |
+| [rmcmillan34/algorithmic-trading-learning-roadmap](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) | A comprehensive learning roadmap for mastering the core disciplines necessary for successful sole algorithmic trading. This repository serve | Shell | 253 | 2026-02-07 |
 | [AliHabibnia/ECON_5984_CMDA_4984_Data_Science_for_Quantitative_Finance](https://github.com/AliHabibnia/ECON_5984_CMDA_4984_Data_Science_for_Quantitative_Finance) | This course in applied data science covers the theoretical foundations of advanced quantitative approaches in machine learning, econometrics | Jupyter Notebook | 55 | 2026-02-26 |
 | [ECP-Solutions/VBA-Expressions](https://github.com/ECP-Solutions/VBA-Expressions) | A powerful library extending VBA with over 100 functions for math, stats, finance, and data manipulation. It supports matrix operations, and | VBA | 51 | 2026-02-12 |
 | [serkannpolatt/DATA-SCIENCE-FOR-FINANCE](https://github.com/serkannpolatt/DATA-SCIENCE-FOR-FINANCE) | This repository features data science projects focused on financial data analysis and forecasting. The projects apply machine learning algor | Jupyter Notebook | 31 | 2026-02-17 |
@@ -95,11 +95,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 66,250 | 2026-10-11 |
-| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,991 | 2026-10-12 |
-| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,247 | 2026-10-13 |
-| [jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection](https://github.com/jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection) | This repository explores explainable deep learning models for financial fraud detection and anomaly analysis. It integrates Graph Neural Net | Python | 796 | 2025-10-20 |
-| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 703 | 2026-10-05 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 66,315 | 2026-10-14 |
+| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,991 | 2026-10-13 |
+| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,248 | 2026-10-13 |
+| [jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection](https://github.com/jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection) | This repository explores explainable deep learning models for financial fraud detection and anomaly analysis. It integrates Graph Neural Net | Python | 788 | 2025-10-20 |
+| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 704 | 2026-10-13 |
 | [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) | A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persiste | Python | 644 | 2025-12-15 |
 <!-- DAN:END -->
 
