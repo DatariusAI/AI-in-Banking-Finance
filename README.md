@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **credit risk, fraud dete
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-19 04:38 UTC_
+_Last refreshed: 2026-10-20 04:35 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-18 | [Scam Town: Can Scam Education Spread Like a Vaccine?](https://arxiv.org/abs/2610.25040) | Simiao Ren et al. |
+| 2026-10-16 | [Preserving Reasoning Diversity in Reinforcement Learning with Verifiable Rewards via Adaptive Replay](https://arxiv.org/abs/2610.24236) | Wen-Zhi Li et al. |
 | 2026-10-16 | [Learning Personalized Memory Gating from Delayed One-Sided Feedback](https://arxiv.org/abs/2610.23812) | Kaixuan Ji et al. |
+| 2026-10-16 | [ProtoGTX: Prototype-Aligned Graph Transformer for Explainable Whole-Slide Image Analysis](https://arxiv.org/abs/2610.24023) | Iori Azuma et al. |
 | 2026-10-15 | [Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing](https://arxiv.org/abs/2610.22196) | Tianxiang Fei et al. |
 | 2026-10-15 | [Missed Detections and False Alarms in a CNN Technosignature Detector on Breakthrough Listen Data](https://arxiv.org/abs/2610.22050) | Omer Imran |
 | 2026-10-15 | [MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning](https://arxiv.org/abs/2610.21091) | Yixuan Xie et al. |
 | 2026-10-13 | [Beyond Answer Voting: Fine-Grained Correction of LLM Reasoning through Graph Alignment across Sampled Traces](https://arxiv.org/abs/2610.18606) | Haotian Liu et al. |
-| 2026-10-13 | [MemoryVLN: From Ego-Aware Memory Representation to Cross-Context Memory Reuse in Vision-Language Navigation](https://arxiv.org/abs/2610.18478) | Xueyao Wei et al. |
-| 2026-10-13 | [Teacher-Guided Tool Learning for Small Language Models via Bidirectional KL Constraints](https://arxiv.org/abs/2610.18459) | Haoxuan Gao et al. |
-| 2026-10-12 | [VeriRouter: Towards Verifiable LLM Routing](https://arxiv.org/abs/2610.17431) | Mengyu Yao et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 111,952 | 2026-10-16 |
-| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,675 | 2026-09-08 |
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,026 | 2026-10-15 |
-| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. | Python | 3,963 | 2026-10-18 |
-| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,094 | 2026-08-15 |
-| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 1,823 | 2026-10-19 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 112,159 | 2026-10-16 |
+| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,677 | 2026-09-08 |
+| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,029 | 2026-10-15 |
+| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. | Python | 3,973 | 2026-10-19 |
+| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,099 | 2026-08-15 |
+| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 1,827 | 2026-10-20 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -95,12 +95,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 66,709 | 2026-10-17 |
-| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,992 | 2026-10-16 |
-| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,249 | 2026-10-17 |
-| [jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection](https://github.com/jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection) | This repository explores explainable deep learning models for financial fraud detection and anomaly analysis. It integrates Graph Neural Net | Python | 788 | 2025-10-20 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 66,760 | 2026-10-17 |
+| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,992 | 2026-10-19 |
+| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,249 | 2026-10-19 |
 | [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 707 | 2026-10-17 |
 | [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) | A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persiste | Python | 644 | 2025-12-15 |
+| [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python) | A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses | Jupyter Notebook | 275 | 2026-08-13 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
