@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **credit risk, fraud dete
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-26 04:39 UTC_
+_Last refreshed: 2026-10-27 04:37 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 114,832 | 2026-10-16 |
-| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,700 | 2026-09-08 |
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,033 | 2026-10-26 |
-| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,111 | 2026-08-15 |
-| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 2,128 | 2026-10-26 |
-| [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | Python | 1,837 | 2026-10-25 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 116,403 | 2026-10-16 |
+| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,702 | 2026-09-08 |
+| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,036 | 2026-10-26 |
+| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,115 | 2026-08-15 |
+| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 2,141 | 2026-10-27 |
+| [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | Python | 1,843 | 2026-10-27 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -53,7 +53,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [papa-torb/adtruth](https://github.com/papa-torb/adtruth) | Open-source ad fraud detection for small businesses using machine learning. Detect click fraud and bot traffic from Google Ads, Facebook Ads | HTML | 251 | 2025-12-17 |
+| [papa-torb/adtruth](https://github.com/papa-torb/adtruth) | Open-source ad fraud detection for small businesses using machine learning. Detect click fraud and bot traffic from Google Ads, Facebook Ads | HTML | 252 | 2025-12-17 |
 | [jube-home/aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring) | Open source AML and Fraud Detection using Machine Learning for Real-Time Transaction Monitoring | C# | 114 | 2026-10-25 |
 | [Srinikesh18/Credit-Card-Fraud-Detection-ML](https://github.com/Srinikesh18/Credit-Card-Fraud-Detection-ML) | End-to-end Credit Card Fraud Detection using Machine Learning with SMOTE, Random Forest, and ROC-AUC evaluation. | Jupyter Notebook | 55 | 2026-02-11 |
 | [Beckybams/Carbon-Credit-Fraud-Detection-](https://github.com/Beckybams/Carbon-Credit-Fraud-Detection-) | Carbon-Credit-Fraud-Detection uses data analytics and machine learning to identify suspicious transactions in carbon credit markets. It moni |  | 40 | 2025-10-31 |
@@ -67,7 +67,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [hackernoon/learn](https://github.com/hackernoon/learn) | The place to learn about the top technology, programming, web3, business, media, gaming, data science, finance, and cybersecurity stories fr |  | 616 | 2026-04-21 |
+| [hackernoon/learn](https://github.com/hackernoon/learn) | The place to learn about the top technology, programming, web3, business, media, gaming, data science, finance, and cybersecurity stories fr |  | 617 | 2026-04-21 |
 | [rmcmillan34/algorithmic-trading-learning-roadmap](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) | A comprehensive learning roadmap for mastering the core disciplines necessary for successful sole algorithmic trading. This repository serve | Shell | 256 | 2026-02-07 |
 | [AliHabibnia/ECON_5984_CMDA_4984_Data_Science_for_Quantitative_Finance](https://github.com/AliHabibnia/ECON_5984_CMDA_4984_Data_Science_for_Quantitative_Finance) | This course in applied data science covers the theoretical foundations of advanced quantitative approaches in machine learning, econometrics | Jupyter Notebook | 55 | 2026-02-26 |
 | [ECP-Solutions/VBA-Expressions](https://github.com/ECP-Solutions/VBA-Expressions) | A powerful library extending VBA with over 100 functions for math, stats, finance, and data manipulation. It supports matrix operations, and | VBA | 51 | 2026-02-12 |
@@ -95,12 +95,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 67,064 | 2026-10-25 |
-| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,992 | 2026-10-24 |
-| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,250 | 2026-10-22 |
-| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 710 | 2026-10-17 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 67,123 | 2026-10-25 |
+| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,992 | 2026-10-26 |
+| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,249 | 2026-10-27 |
+| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 711 | 2026-10-26 |
 | [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) | A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persiste | Python | 644 | 2025-12-15 |
-| [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python) | A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses | Jupyter Notebook | 279 | 2026-08-13 |
+| [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python) | A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses | Jupyter Notebook | 280 | 2026-08-13 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
