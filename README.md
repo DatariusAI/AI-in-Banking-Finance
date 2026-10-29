@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **credit risk, fraud dete
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-28 04:29 UTC_
+_Last refreshed: 2026-10-29 04:29 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 117,426 | 2026-10-27 |
-| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,702 | 2026-09-08 |
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,036 | 2026-10-28 |
-| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,116 | 2026-08-15 |
-| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 2,163 | 2026-10-28 |
-| [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | Python | 1,845 | 2026-10-28 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 117,969 | 2026-10-27 |
+| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,704 | 2026-09-08 |
+| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,038 | 2026-10-28 |
+| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,119 | 2026-08-15 |
+| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 2,203 | 2026-10-29 |
+| [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | Python | 1,847 | 2026-10-29 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -70,7 +70,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [hackernoon/learn](https://github.com/hackernoon/learn) | The place to learn about the top technology, programming, web3, business, media, gaming, data science, finance, and cybersecurity stories fr |  | 617 | 2026-04-21 |
 | [rmcmillan34/algorithmic-trading-learning-roadmap](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) | A comprehensive learning roadmap for mastering the core disciplines necessary for successful sole algorithmic trading. This repository serve | Shell | 257 | 2026-02-07 |
 | [AliHabibnia/ECON_5984_CMDA_4984_Data_Science_for_Quantitative_Finance](https://github.com/AliHabibnia/ECON_5984_CMDA_4984_Data_Science_for_Quantitative_Finance) | This course in applied data science covers the theoretical foundations of advanced quantitative approaches in machine learning, econometrics | Jupyter Notebook | 55 | 2026-02-26 |
-| [ECP-Solutions/VBA-Expressions](https://github.com/ECP-Solutions/VBA-Expressions) | A powerful library extending VBA with over 100 functions for math, stats, finance, and data manipulation. It supports matrix operations, and | VBA | 51 | 2026-02-12 |
+| [ECP-Solutions/VBA-Expressions](https://github.com/ECP-Solutions/VBA-Expressions) | A powerful library extending VBA with over 100 functions for math, stats, finance, and data manipulation. It supports matrix operations, and | VBA | 51 | 2026-10-28 |
 | [serkannpolatt/DATA-SCIENCE-FOR-FINANCE](https://github.com/serkannpolatt/DATA-SCIENCE-FOR-FINANCE) | This repository features data science projects focused on financial data analysis and forecasting. The projects apply machine learning algor | Jupyter Notebook | 31 | 2026-02-17 |
 | [get-zeked/finance-super-skill](https://github.com/get-zeked/finance-super-skill) | Comprehensive finance and accounting skill merging Perplexity Computer's 7 finance skills + investment research with Claude Code's data scie |  | 28 | 2026-03-03 |
 <!-- DS:END -->
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard) | fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financi | TypeScript | 136 | 2026-09-14 |
+| [Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard) | fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financi | TypeScript | 137 | 2026-09-14 |
 | [sebastienrousseau/bankstatementparser](https://github.com/sebastienrousseau/bankstatementparser) | Parse bank statements (CAMT, PAIN.001, MT940, MT942, OFX/QFX, BAI2, CSV, and PDF) into unified Transactions. Treasury analytics, 2-way recon | Python | 58 | 2026-10-28 |
 | [Victor-Kipruto-Rop/victor-kipruto-rop-portfolio](https://github.com/Victor-Kipruto-Rop/victor-kipruto-rop-portfolio) | End-to-end Data Engineering portfolio covering ETL, streaming, fraud detection, and financial analytics across M-Pesa, KCB, Equity Group, Ab | Python | 44 | 2026-07-03 |
-| [Hazrat-Ali9/Banking-System](https://github.com/Hazrat-Ali9/Banking-System) | 🏦 Banking System 🏣 designed to 🏥 simulate real 🕍 world banking ✈ operations with 🚁 secure scalable 🚀 and user-friendly 🛳 features Ideal 🛸 le | HTML | 41 | 2026-09-04 |
+| [Hazrat-Ali9/Banking-System](https://github.com/Hazrat-Ali9/Banking-System) | 🏦 Banking System 🏣 designed to 🏥 simulate real 🕍 world banking ✈ operations with 🚁 secure scalable 🚀 and user-friendly 🛳 features Ideal 🛸 le | HTML | 43 | 2026-09-04 |
 | [parlhad/Uber_Power-BI_Project](https://github.com/parlhad/Uber_Power-BI_Project) | This repository contains a Power BI analytics dashboard built to explore Uber ride booking data and extract business insights. The dashboard |  | 39 | 2026-06-27 |
-| [CavernIllusionist/Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/CavernIllusionist/Ghostfolio-Desktop-Self-Hosted-Dashboard) | Track your investments, asset allocation, and financial analytics in one privacy-focused dashboard. Easy setup and direct downloads. |  | 28 | 2026-09-10 |
+| [DriveSkyRedeem/Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/DriveSkyRedeem/Ghostfolio-Desktop-Self-Hosted-Dashboard) | Track your investments, asset allocation, and financial analytics in one privacy-focused dashboard. Easy setup and direct downloads. |  | 28 | 2026-09-10 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
@@ -95,12 +95,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 67,180 | 2026-10-25 |
-| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,994 | 2026-10-27 |
-| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,249 | 2026-10-27 |
-| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 711 | 2026-10-26 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 67,230 | 2026-10-25 |
+| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,994 | 2026-10-28 |
+| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,250 | 2026-10-29 |
+| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 713 | 2026-10-26 |
 | [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) | A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persiste | Python | 644 | 2025-12-15 |
-| [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python) | A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses | Jupyter Notebook | 281 | 2026-08-13 |
+| [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python) | A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses | Jupyter Notebook | 282 | 2026-08-13 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
