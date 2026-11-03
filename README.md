@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **credit risk, fraud dete
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-02 04:27 UTC_
+_Last refreshed: 2026-11-03 04:25 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-23 | [Jawboning the Fed: Do Markets Listen When Administrations Talk?](https://arxiv.org/abs/2610.32300) | Michela Baretti et al. |
-| 2026-10-22 | [VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act](https://arxiv.org/abs/2610.31588) | Robin Quériaux et al. |
-| 2026-10-21 | [WRDO: Weighted Refusal Direction Optimization in Aligned Language Models](https://arxiv.org/abs/2610.29555) | Grigoriy Evseev et al. |
-| 2026-10-20 | [Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning](https://arxiv.org/abs/2610.28785) | Hieu Tran et al. |
-| 2026-10-20 | [UniWALM: Unified World Action Language Model for Embodied Robot Control](https://arxiv.org/abs/2610.28626) | Rahul Sajnani et al. |
-| 2026-10-20 | [OptScientist: Automated Discovery of Optimization Laws](https://arxiv.org/abs/2610.28562) | Ma ZhenYao et al. |
-| 2026-10-20 | [In PRAISE of Attributes: Grounding Retrieval Geometry with Query-Conditioned Subspaces for Person Re-Identification](https://arxiv.org/abs/2610.27944) | Rajarshi Bhattacharya et al. |
-| 2026-10-19 | [Exploration via Activation-Space Steering for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2610.27012) | Yunan Zeng et al. |
+| 2026-10-31 | [The Verifier Is Part of the Simulator: Evidence-View Gaming in Agentic Equation Discovery](https://arxiv.org/abs/2611.01334) | Orestis Oikonomou et al. |
+| 2026-10-30 | [TADA: Technology Aware DNN Accelerator Performance and Energy Estimator](https://arxiv.org/abs/2611.00292) | Tanvi Sharma et al. |
+| 2026-10-29 | [Qistas: A Pre-Registered, Portable Protocol for Fairness Evaluation of Large Language Models](https://arxiv.org/abs/2610.40893) | Nawar S. Alseelawi et al. |
+| 2026-10-29 | [Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers](https://arxiv.org/abs/2610.40544) | Ibrahim Salifu et al. |
+| 2026-10-29 | [Explainable and Adaptive Machine Learning for Fraud Risk Detection in Bangladesh's Digital Banking Ecosystem](https://arxiv.org/abs/2610.39556) | Md Najmus Swaqeeb |
+| 2026-10-29 | [Well-Specified and Well-Tested? Assessing SWE-bench-Style Datasets with a Self-Evolving Agent](https://arxiv.org/abs/2610.39417) | Zhonghao Jiang et al. |
+| 2026-10-28 | [Routed Continual Learning](https://arxiv.org/abs/2610.38796) | Michael Philip et al. |
+| 2026-10-28 | [Dual DeltaNet: Value-Side Memory Reorganization for Linear Attention](https://arxiv.org/abs/2610.38578) | Yixiao Qian et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 119,615 | 2026-10-27 |
-| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,717 | 2026-09-08 |
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,039 | 2026-11-02 |
-| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,124 | 2026-08-15 |
-| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 2,234 | 2026-11-02 |
-| [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | Python | 1,855 | 2026-11-02 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 120,026 | 2026-10-27 |
+| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |  | 6,718 | 2026-09-08 |
+| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,040 | 2026-11-02 |
+| [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. | Python | 3,126 | 2026-08-15 |
+| [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) | Claude Code for Financial Market | Python | 2,239 | 2026-11-03 |
+| [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | Python | 1,859 | 2026-11-03 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [datasifaw/dataiku-projet-bancaire-analytics](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) | End-to-end Banking Analytics with Dataiku - Data Preparation, Machine Learning, Customer Scoring & Automated Pipelines |  | 99 | 2026-10-25 |
-| [sebastienrousseau/bankstatementparser](https://github.com/sebastienrousseau/bankstatementparser) | Parse bank statements (CAMT, PAIN.001, MT940, MT942, OFX/QFX, BAI2, CSV, and PDF) into unified Transactions. Treasury analytics, 2-way recon | Python | 59 | 2026-11-01 |
+| [datasifaw/dataiku-projet-bancaire-analytics](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) | End-to-end Banking Analytics with Dataiku - Data Preparation, Machine Learning, Customer Scoring & Automated Pipelines |  | 100 | 2026-10-25 |
+| [sebastienrousseau/bankstatementparser](https://github.com/sebastienrousseau/bankstatementparser) | Parse bank statements (CAMT, PAIN.001, MT940, MT942, OFX/QFX, BAI2, CSV, and PDF) into unified Transactions. Treasury analytics, 2-way recon | Python | 60 | 2026-11-01 |
 | [Victor-Kipruto-Rop/victor-kipruto-rop-portfolio](https://github.com/Victor-Kipruto-Rop/victor-kipruto-rop-portfolio) | End-to-end Data Engineering portfolio covering ETL, streaming, fraud detection, and financial analytics across M-Pesa, KCB, Equity Group, Ab | Python | 44 | 2026-07-03 |
 | [Hazrat-Ali9/Banking-System](https://github.com/Hazrat-Ali9/Banking-System) | 🏦 Banking System 🏣 designed to 🏥 simulate real 🕍 world banking ✈ operations with 🚁 secure scalable 🚀 and user-friendly 🛳 features Ideal 🛸 le | HTML | 43 | 2026-09-04 |
 | [parlhad/Uber_Power-BI_Project](https://github.com/parlhad/Uber_Power-BI_Project) | This repository contains a Power BI analytics dashboard built to explore Uber ride booking data and extract business insights. The dashboard |  | 39 | 2026-06-27 |
-| [Platepacourtyard/Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/Platepacourtyard/Ghostfolio-Desktop-Self-Hosted-Dashboard) | Track your investments, asset allocation, and financial analytics in one privacy-focused dashboard. Easy setup and direct downloads. |  | 28 | 2026-09-10 |
+| [CavernIllusionist/Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/CavernIllusionist/Ghostfolio-Desktop-Self-Hosted-Dashboard) | Track your investments, asset allocation, and financial analytics in one privacy-focused dashboard. Easy setup and direct downloads. |  | 28 | 2026-09-10 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
@@ -95,12 +95,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 67,401 | 2026-11-01 |
-| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,996 | 2026-10-29 |
-| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,250 | 2026-11-02 |
-| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 716 | 2026-10-31 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne | Python | 67,469 | 2026-11-02 |
+| [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) | C++ DataFrame for statistical, financial, and ML analysis in modern C++ | C++ | 2,997 | 2026-11-02 |
+| [facioquo/stock-indicators-dotnet](https://github.com/facioquo/stock-indicators-dotnet) | Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quote | C# | 1,250 | 2026-11-03 |
+| [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key | Python | 717 | 2026-11-02 |
 | [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) | A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persiste | Python | 645 | 2025-12-15 |
-| [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python) | A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses | Jupyter Notebook | 284 | 2026-08-13 |
+| [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python) | A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses | Jupyter Notebook | 285 | 2026-08-13 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
